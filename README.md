@@ -27,7 +27,7 @@ LLM-driven product recommendation system configurable across multiple retail bra
 
 ---
 
-### [Real-Time Dish & Glass Detection](https://github.com/sonostudio/dish-detection) *(client work)*
+### [Real-Time Dish & Glass Detection](https://github.com/sonostudio/dish-detection) (client work)
 Computer vision system for a restaurant client detecting dish and glass presence across multiple tables in real time, triggering interactive content via OSC. Dual-detection architecture: depth-based presence detection for dishes, on-device YOLOv8n inference (MyriadX VPU) for glasses.
 
 **Stack:** Python · OAK-D Lite · YOLOv8n · DepthAI · Raspberry Pi 5 · TouchDesigner · OSC
