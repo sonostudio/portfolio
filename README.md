@@ -21,9 +21,9 @@ Open to full-time remote roles globally · n@sonostud.io · [LinkedIn](https://l
 ## Projects
 
 ### [AI-Powered Conversational Product Guide](https://github.com/sonostudio/llm-product-guide)
-LLM-driven product recommendation system configurable across multiple retail brands — FastAPI backend, Claude API, React frontend, and a Databricks-on-AWS analytics pipeline following the Medallion architecture.
-
-**Stack:** Python · FastAPI · Claude API · React · Databricks · Delta Lake · AWS S3
+LLM-driven product recommendation system configurable across multiple retail brands — FastAPI backend, Claude API, and React frontend. Analytics pipeline following the Medallion architecture (AWS S3 → Delta Lake → Databricks) designed and planned for production implementation.
+ 
+**Stack:** Python · FastAPI · Claude API · React
 
 ---
 
