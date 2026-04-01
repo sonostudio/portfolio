@@ -7,35 +7,36 @@ Tokyo, Japan / +81 807542-0501 / n@sonostud.io
 
 ## Summary
 
-Experienced Data Engineer and Systems Engineer with a background spanning scalable data pipelines, computer vision, and edge AI deployment. Proven track record delivering data products across insurance, e-commerce, and logistics — as well as building production-grade interactive CV systems. Skilled in cloud platforms (AWS, Azure, GCP), big data tooling (Spark, Databricks, dbt), and modern Python engineering. Equally comfortable leading data platform work and designing end-to-end ML/CV pipelines for real-world deployment.
+Senior Data Engineer with 7 years building production data pipelines across insurance, logistics, and e-commerce at scale. Experienced leading cross-functional data platform projects and delivering end-to-end pipelines on AWS using Python, Spark, dbt, and Databricks. Currently running an independent engineering studio focused on edge AI and computer vision. Comfortable working fully async and across timezones.
 
 ---
 
 ## Experience
 
-### Sono Studio / Systems Engineer
-Dec 2025 – Present, Tokyo (Remote)
+### sono studio / Data & Systems Engineer
+Dec 2025 – Present, Tokyo
+
+Built and shipped production computer vision and data systems for external clients and internal R&D, spanning edge AI deployment, real-time inference pipelines, and LLM-powered applications.
 
 #### Conversational Product Guide
-- AI-powered product guide built as a configurable prototype for multiple Japanese retail brands, using FastAPI, Claude API, and React — developed as a sales demo to pitch to prospective clients.
-- Designed a Databricks-on-AWS analytics pipeline for engagement and commerce dashboards.
+- LLM-driven chat guide built as a configurable prototype for multiple Japanese retail brands, using FastAPI, Claude API, and React — developed as a sales demo to pitch to prospective clients.
 
 #### Dish & Glass Detection *(client work)*
 - Real-time table detection system for a restaurant client using OAK-D Lite cameras and Raspberry Pi 5.
 - Dual-detection architecture: depth-based presence detection for dishes; on-device YOLOv8n inference (MyriadX VPU) for glasses.
 - Zone-based calibration with per-zone OSC output to TouchDesigner for media playback control.
 
-#### shy-light
+#### Camera-Driven Interactive 3D Rendering
 - Camera-to-OSC bridge for Unreal Engine using MediaPipe and DeepFace — detecting proximity, facial expression, and peekaboo gestures for real-time interactive 3D lighting.
 
-#### connected-shelf
+#### Edge AI Product Detection & Display System
 - Edge AI retail display system using OAK-D Pro and custom YOLOv8 models to trigger SKU-specific video content on product placement.
 
 ### AXA Japan / Lead Data Engineer
 Jan 2024 – Oct 2025, Tokyo
 
-- Worked within a team of ~20 engineers building and owning end-to-end data pipelines across 5 domains — policy, claims, underwriting, finance, and customer support — covering 5M+ active policies.
-- Automated the insurance claim assessment pipeline using AI OCR, significantly reducing manual processing time and improving consistency at scale.
+- Led data platform projects within a team of ~20 engineers, building and owning end-to-end data pipelines across 5 domains — policy, claims, underwriting, finance, and customer support — covering 5M+ active policies.
+- Automated the insurance claim assessment pipeline using AI OCR, eliminating manual document handling across high-volume claim intake and improving processing consistency at scale.
 - Delivered finance data products enabling actuarial teams and auditors to monitor premiums, using dbt and AutomateDV on Databricks.
 - Implemented automated data masking to protect PII and ensure regulatory compliance.
 - Drove cross-functional alignment with data scientists, system architects, and business units on data reliability and platform standards.
@@ -65,10 +66,10 @@ May 2019 – Dec 2020, Tokyo
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, PySpark
-- **Cloud & Data Tools:** AWS, Azure, Google BigQuery, Databricks, dbt, AutomateDV
-- **Computer Vision & ML:** YOLOv8 / Roboflow, OAK-D / DepthAI, OpenCV, MediaPipe, PyTorch
-- **MLOps & Tooling:** Poetry, Docker, Terraform, Git
+- **Core:** Python, SQL, PySpark
+- **Cloud & Data:** AWS, Databricks, dbt, AutomateDV, Google BigQuery
+- **CV & ML:** YOLOv8 / Roboflow, OAK-D / DepthAI, OpenCV, MediaPipe, PyTorch
+- **Tooling:** Docker, Terraform, Git
 - **Visualization:** Tableau, Looker, PowerBI, Quicksight
 
 ---
