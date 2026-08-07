@@ -27,13 +27,6 @@ LLM-driven product recommendation system configurable across multiple retail bra
 
 ---
 
-### [Real-Time Dish & Glass Detection](https://github.com/sonostudio/dish-detection) (client work)
-Computer vision system for a restaurant client detecting dish and glass presence across multiple tables in real time, triggering interactive content via OSC. Dual-detection architecture: depth-based presence detection for dishes, on-device YOLOv8n inference (MyriadX VPU) for glasses.
-
-**Stack:** Python · OAK-D Lite · YOLOv8n · DepthAI · Raspberry Pi 5 · TouchDesigner · OSC
-
----
-
 ### [Edge AI Product Detection & Display System](https://github.com/sonostudio/connected-shelf)
 Retail edge AI system that detects physical product placement via OAK-D Pro and triggers SKU-specific video content. On-device YOLOv8n inference on MyriadX VPU; YAML-based SKU-to-video config requires no code changes to add new products.
 
